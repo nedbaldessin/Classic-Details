@@ -1,1 +1,6 @@
-Options MultiViews
+Options All multiviews
+
+DefaultLanguage en
+LanguagePriority en fr
+ForceLanguagePriority Prefer Fallback
+#DirectoryIndex index.en.html
