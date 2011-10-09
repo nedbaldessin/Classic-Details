@@ -1,0 +1,135 @@
+body {
+	background-color: #fff;
+	padding: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 1em;
+}
+
+#header #lang {
+	float: right;
+	line-height: 24px;
+}
+
+#header hr {
+	clear: both;
+}
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 2em;
+	letter-spacing: -1px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 1.3em;
+	padding-bottom: 0;
+	margin-bottom: 0.3em;
+	margin-top: 0.5em;
+	padding-top: 0.3em;
+	letter-spacing: -1px;	
+}
+h2 em {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 0.8em;
+	font-style: normal;
+	
+}
+
+abbr {
+	cursor: help;
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	margin: 0;
+	padding: 0;
+}
+p.intro {
+	/*text-align: center;*/
+	padding-top: 0;
+	margin-top: 0.5em;
+	
+}
+
+em.error {
+	color: #f00;
+}
+
+#header img {
+	padding-left: 3px;
+	border: 0;
+}
+
+a:link {
+	color: blue;
+}
+
+
+hr {
+	width: 100%;
+}
+
+ul {
+	padding-top: 0;
+	margin-top: 0.5em;
+	list-style: square;
+}
+
+#nav {
+	float: right;
+	padding-top: 0.7em; /*nasty hack*/
+}
+
+br.clear {
+	clear: both;
+}
+
+#footer {
+	clear: both;
+	padding: 15px 0 0 0;
+}
+#footer ul {
+	padding: 0;
+	margin: 0;
+	font-size: 0.8em;
+}
+
+#footer ul li {
+	display: inline;
+	list-style-type: none;
+	border-left: 2px solid #999;
+	padding: 0 4px 0 8px;
+	margin: 0;
+}
+
+#footer ul li:first-child {
+	border-left: 0;
+	padding: 0 4px 0 0;
+}
+
+div.video {
+	/*border: 1px solid #ccc;*/
+	float: left;
+	width: 310px;
+	/*height: 275px;*/
+	padding: 1px;
+	margin: 0 15px 0 0;
+}
+object {
+	/*border-top: 1px solid #000;
+	border-left: 1px solid #000;
+	border-bottom: 1px solid #fff;
+	border-right: 1px solid #fff;*/
+}
+
+div.contenu {
+	padding: 5px 0 10px 0;
+}

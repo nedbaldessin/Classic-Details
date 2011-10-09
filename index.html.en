@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-15" />
+	<title>Tribute to the MacOS HCI</title>
+	<link rel="Stylesheet" href="tribute_macOS_HCI.css" media="Screen" />
+</head>
+<body>
+<div id="header">
+	<small><a href="http://www.idsland.com"><img src="imgs/logoIDSlandProjects.gif" alt="IDSland" width="141" height="24" /></a></small>
+	<hr />
+</div>
+
+<h1>Tribute to the MacOS 9.x <abbr title="Human Computer Interaction">HCI</abbr></h1>
+
+<p class="intro">To celebrate the announced death of Mac OS 9.x, and its momification in the Classic environment, a tribute to the style and unrivaled design of the father of all GUIs.</p>
+
+<p>
+	<h2>Musac&nbsp;&nbsp;|&nbsp;<em>implementation studies</em></h2>
+	<em>Sophisticated details and carefull service for the common well-being</em>
+	<ul>
+		<li><a href="toto">Hierachical menu touch</a> (pull down the blinders, your own way)</li>
+		<li><a href="toto">Perceived stable readability of a text field</a> (well read, well spoken)</li>
+		<li><a href="toto">Gestion de focus.</a> (concentrez votre concentration )</li>
+		<li><a href="toto">Fonction &agrave; champs d'application.</a> (met tout le monde d'accord)</li>
+	</ul>
+</p>
+
+<p>
+	<h2>Multifinder Feng Shui&nbsp;&nbsp;|&nbsp;<em>traitement de la complexit&eacute;</em></h2>
+	<em>Sagesse imp&eacute;riale d'un syst&egrave;me mill&eacute;naire pour des utilisateurs sans foi.</em>
+	<ul>
+		<li><a href="toto">Indulgence performative</a> (comble votre infinie paresse)</li>
+		<li><a href="toto">Protection des extr&ecirc;mes</a> (affichage des noms longs, compression de l'approche)</li>
+		<li><a href="toto">Arbitraire de coh&eacute;rence adaptative</a> (ind&eacute;fectible raison de la fonction)</li>
+		<li><a href="toto">Arbitraire de coh&eacute;rence non-adaptative</a> (faille volontaire dans la cuirasse ?)</li>
+		<li><a href="toto">Manipulation directe ajust&eacute;e</a> (cascade de copies : vitesse, position)</li>
+	</ul>
+</p>
+
+<p>
+	<h2>Les 1001 prises de Kung-FuOS</h2>
+	<em>Devenez un guerrier redoutable en ma&icirc;trisant les techniques mill&eacute;naires des moines du Culte du Dogcow. Paralysez vos adversaires avec le Cri Qui Tue : "moof!".</em>
+	<ul>
+		<li><a href="toto">Screaming Dock Tackle</a></li>
+		<li><a href="toto">Mighty Tab Slash</a></li>
+		<li><a href="toto">Cursed Pixel terror</a></li>
+		<li><a href="toto">Deadly Triangle Exension</a></li>
+		<li><a href="toto">Bouncing Selection Technique</a></li>
+		<li><a href="toto">Ultimate Magnifying Neck-Snap</a></li>
+		<li><a href="toto">Vintage Dock construction technique</a></li>
+		<li><a href="toto">Cursed Pixel terror</a></li>
+		<li><a href="toto">Grand dust-swipe</a></li>
+		<li><a href="toto">Flying serpent filename</a></li>
+	</ul>
+</p>
+
+<p>
+	<h2>Conclusion</h2>
+	<ul>
+		<li><a href="toto">Apparence, Apparence, Apparence, pour rien.</a></li>
+	</ul>
+</p>
+
+<div id="footer">
+	<hr />
+	<small>&copy; 2003 IDSland <b>|</b> Authors: C&eacute;dric Scandella and Ned Baldessin <b>|</b> <a href="/contact.php">Contact form</a></small>
+</div>
+
+</body>
+</html>
